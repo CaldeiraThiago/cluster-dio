@@ -1,4 +1,4 @@
-Docker: Utilização prática no cenário de Microsserviços
-Denilson Bonatti, Instrutor - Digital Innovation One
+# Repositório de um cluster docker swarm
 
-Muito se tem falado de containers e consequentemente do Docker no ambiente de desenvolvimento. Mas qual a real função de um container no cenários de microsserviços? Qual a real função e quais exemplos práticos podem ser aplicados no dia a dia? Essas são algumas das questões que serão abordadas de forma prática pelo Expert Instructor Denilson Bonatti nesta Live Coding. IMPORTANTE: Agora nossas Live Codings acontecerão no canal oficial da dio._ no YouTube. Então, já corre lá e ative o lembrete! Pré-requisitos: Conhecimentos básicos em Linux, Docker e AWS.
+Este cluster foi criado para resolver o desafio da DIO relativo a transição de uma arquitetura monolitica para uma arquitetura de microserviços.
+O projeto foi desenvolvido atráves de 3 vms, sendo uma com ubuntu server, outra com ubuntu desktop e a terceira com o debian. Foram utilizados os serviços de container Docker e o cluster foi feito utilizando o orquestrador Docker Swarm.
